@@ -1,1 +1,1 @@
-todays date=
+todays date=""
