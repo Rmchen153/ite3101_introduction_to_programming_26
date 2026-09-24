@@ -2,4 +2,4 @@
 the variable the_machine_goes on
 line 5, then print it out on line 6!"""
 the_maching_goes="Ping!"
-print()
+print(the_maching_goes")
