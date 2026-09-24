@@ -1,2 +1,2 @@
-parrot = "There's a snake in my boot!"
+parrot = "Norwegian Blue"
 print(len(parrot))
