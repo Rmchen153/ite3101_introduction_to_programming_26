@@ -1,7 +1,7 @@
 from typing import Any
 
 
-def cube(numbera: int) -> str:
+def cube(numbera: int) -> int:
     return number * number * number
 
 
