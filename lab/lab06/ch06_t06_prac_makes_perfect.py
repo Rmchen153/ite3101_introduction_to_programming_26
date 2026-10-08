@@ -1,2 +1,2 @@
-def cube(number)->str:
+def cube(numbera:)->str:
     if
