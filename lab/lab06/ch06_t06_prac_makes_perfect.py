@@ -1,2 +1,2 @@
 def cube(numbera:int)->str:
-    if
+    return number * number *number
