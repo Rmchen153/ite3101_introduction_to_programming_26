@@ -1,5 +1,5 @@
 def shut_down(s:str)->str:
-    return s:str
+    return s
     
     
     if s =="yes"
