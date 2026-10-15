@@ -4,4 +4,4 @@ def shut_down(s: str) -> str:
     elif s == "no"
     shut_down("Shutdown aborted")
     else
-    shut_down("sorry")
+    shut_down("Sorry")
