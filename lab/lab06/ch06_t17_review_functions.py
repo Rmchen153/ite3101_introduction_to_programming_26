@@ -1,5 +1,5 @@
 def shut_down(s:str)->str:
     if s =="yes"
-    print('Shutting down)
+    print('Shutting down')
     elif s =="no"
     print(Shutting)
