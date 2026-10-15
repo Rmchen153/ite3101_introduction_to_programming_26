@@ -2,4 +2,4 @@ def shut_down(s:str)->str:
     if s =="yes"
     print('Shutting down')
     elif s =="no"
-    print(Shutting)
+    print('Shutting)
