@@ -1,2 +1,2 @@
 import math
-print(math.squt)
+print(math.sqrt(13689))
