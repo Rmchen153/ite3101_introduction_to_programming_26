@@ -4,7 +4,7 @@ animals = "catdogfrog"
 cat = my_list[:3]
 
 # The fourth through sixth characters
-dog = ,y_list[]
+dog = my_list[]
 
 # From the seventh character to the end
 frog = None
