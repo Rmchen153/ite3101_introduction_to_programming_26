@@ -1,1 +1,1 @@
-def hotel cost(night)
+def hotel cost(night):
