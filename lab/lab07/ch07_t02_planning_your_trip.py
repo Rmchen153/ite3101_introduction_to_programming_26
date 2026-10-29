@@ -1,2 +1,2 @@
-def hotel cost(night):
+def hotel cost()->:
 return 140*night
