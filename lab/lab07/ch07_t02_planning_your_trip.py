@@ -1,2 +1,2 @@
 def hotel cost(night):
-return 140
+return 140*night
