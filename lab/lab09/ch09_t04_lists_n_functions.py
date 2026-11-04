@@ -1,6 +1,10 @@
 # Write your function below!
 from typing import List
 
-def fizz_count(x:List[str])->int:
+
+def fizz_count(words: List[str]) -> int:
     count = 0
-    for i in x:
+    for word in words:
+        if word == "fizz":
+            count += 1
+    return count
